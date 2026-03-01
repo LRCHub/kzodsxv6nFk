@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハイタッチ！",
+  "base_artist": "サトシ(CV:松本梨香)、ヒカリ(CV:豊口めぐみ)",
+  "createdAt": "2026-03-01T04:45:05.823013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "Yui Ogura",
+      "has_synced": false,
+      "path": "select/01_ハイタッチ☆メモリー_Yui_Ogura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハイタッチ",
+      "artist": "斉藤朱夏",
+      "has_synced": true,
+      "path": "select/02_ハイタッチ_斉藤朱夏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/03_ハイタッチ☆メモリー_小倉唯.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイタッチ!",
+      "artist": "サトシ(松本梨香)&ヒカリ(豊口めぐみ)",
+      "has_synced": true,
+      "path": "select/04_ハイタッチ!_サトシ(松本梨香)&ヒカリ(豊口めぐみ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "小倉唯",
+      "has_synced": true,
+      "path": "select/05_ハイタッチ☆メモリー_小倉唯.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイタッチ!",
+      "artist": "サトシ(CV:松本梨香), ヒカリ(CV:豊口めぐみ)",
+      "has_synced": false,
+      "path": "select/pl_01_ハイタッチ!_サトシ(CV_松本梨香),_ヒカリ(CV_豊口めぐみ).txt"
+    }
+  ]
+}
